@@ -147,8 +147,6 @@ class App extends Component {
                   <h6>Sambil Nunggu Boleh Nih Nikmati Video dan Lagu yang Tersedia</h6>
                   <br></br>
                   <audio title="Savage Love - Derulo" src={require('./savagelove.mp3')} type="audio/mpeg" controls></audio>
-                  <br></br>
-                  <video src={require('./Dana- Basa-basinya Orang Indonesia (SUCI 6 Show 13).mp4')} type="video/mp4" width="350" height="200" controls></video>
                 </div>
             );
         }

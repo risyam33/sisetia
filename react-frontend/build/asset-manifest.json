@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.31e22274.chunk.css",
-    "main.js": "./static/js/main.71a573ca.chunk.js",
-    "main.js.map": "./static/js/main.71a573ca.chunk.js.map",
+    "main.js": "./static/js/main.df6c9acf.chunk.js",
+    "main.js.map": "./static/js/main.df6c9acf.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.2e086a27.js",
     "runtime-main.js.map": "./static/js/runtime-main.2e086a27.js.map",
     "static/js/2.b0d56b49.chunk.js": "./static/js/2.b0d56b49.chunk.js",
     "static/js/2.b0d56b49.chunk.js.map": "./static/js/2.b0d56b49.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.8f11fc626fbb020be2fd0853a03237fd.js": "./precache-manifest.8f11fc626fbb020be2fd0853a03237fd.js",
+    "precache-manifest.80e53c3a170078bc9e240fb616ba5f5b.js": "./precache-manifest.80e53c3a170078bc9e240fb616ba5f5b.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.31e22274.chunk.css.map": "./static/css/main.31e22274.chunk.css.map",
     "static/js/2.b0d56b49.chunk.js.LICENSE.txt": "./static/js/2.b0d56b49.chunk.js.LICENSE.txt",
-    "static/media/Dana- Basa-basinya Orang Indonesia (SUCI 6 Show 13).mp4": "./static/media/Dana- Basa-basinya Orang Indonesia (SUCI 6 Show 13).1ea8ae1a.mp4",
     "static/media/pacmanloading.gif": "./static/media/pacmanloading.1b24ced2.gif",
     "static/media/savagelove.mp3": "./static/media/savagelove.c1fba350.mp3"
   },
@@ -20,6 +19,6 @@
     "static/js/runtime-main.2e086a27.js",
     "static/js/2.b0d56b49.chunk.js",
     "static/css/main.31e22274.chunk.css",
-    "static/js/main.71a573ca.chunk.js"
+    "static/js/main.df6c9acf.chunk.js"
   ]
 }
